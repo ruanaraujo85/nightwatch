@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ruanaraujo85/nightwatch/issues"
   },
-  "homepage": "https://github.com/ruanaraujo85/nightwatch#readme"
+  "homepage": "https://github.com/ruanaraujo85/nightwatch#readme",
+  "dependencies": {
+    "nightwatch": "^1.7.12"
+  }
 }
